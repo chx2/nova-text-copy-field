@@ -1,7 +1,7 @@
 {
-    "name": "sixlive/nova-text-copy-field",
+    "name": "chx2/nova-text-copy-field",
     "description": "Laravel Nova text field with click to copy support",
-    "homepage": "https://github.com/sixlive/nova-text-copy-field",
+    "homepage": "https://github.com/chx2/nova-text-copy-field",
     "keywords": [
         "laravel",
         "nova"
@@ -11,6 +11,12 @@
             "name": "TJ Miller",
             "email": "oss@tjmiller.co",
             "homepage": "https://www.tjmiller.me",
+            "role": "Creator"
+        },
+        {
+            "name": "Chris Hackett",
+            "email": "crishack8@gmail.com",
+            "homepage": "https://chrish.me",
             "role": "Developer"
         }
     ],
